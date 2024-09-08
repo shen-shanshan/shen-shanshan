@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 😃 **Hobbies: I'm not only enthusiastic about 🏸 Badminton, but also a 🎸 Guitarist loving play both acoustic & electric guitar. Plus, I may do some 📚 reading or 💪 exercise in my spare time.**
 
-📫 **Contact me: [shenshanshan3@huawei.com](shenshanshan3@huawei.com)**
+📫 **Contact me: [shenshanshan3@huawei.com](shenshanshan3@huawei.com).**
+
+📑 **My blogs: [Shanshan shen's CSDN](https://blog.csdn.net/weixin_44162047?type=blog).**
+
+🎶 **My Music & Videos: [NetEase Cloud Music](https://music.163.com/#/artist?id=62054947), [Bilibili](https://space.bilibili.com/14112152?spm_id_from=333.1007.0.0).**
 
 ### Languages & Tools
 
@@ -39,14 +43,5 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
-
-### Blogs
-
-- **[CSDN](https://blog.csdn.net/weixin_44162047?type=blog)**
-
-### Music & Videos
-
-- **[NetEase Cloud Music](https://music.163.com/#/artist?id=62054947)**
-- **[Bilibili](https://space.bilibili.com/14112152?spm_id_from=333.1007.0.0)**
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
