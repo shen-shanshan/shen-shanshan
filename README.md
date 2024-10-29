@@ -1,4 +1,4 @@
-## Anout me 👋
+## About me 👋
 
 💻 **Hello, I am currently a software engineer working at Huawei Ascend, engaging in AI Infra & software development.**
 
