@@ -6,7 +6,7 @@
 
 📫 **Contact me: [shanshanshen333@gmail.com](shanshanshen333@gmail.com).**
 
-📃 **My blogs: [Shanshan shen's blogs](https://shen-shanshan.github.io/).**
+📃 **My blogs: [Shanshan Shen's blogs](https://shen-shanshan.github.io/).**
 
 ### Languages & Tools
 
