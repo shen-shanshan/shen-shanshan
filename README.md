@@ -6,6 +6,8 @@
 
 📫 **Contact me: [shanshanshen333@gmail.com](shanshanshen333@gmail.com).**
 
+📃 **My blogs: [Shanshan shen's blogs](https://shen-shanshan.github.io/).**
+
 ### Languages & Tools
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
