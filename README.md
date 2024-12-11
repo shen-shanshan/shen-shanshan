@@ -1,12 +1,10 @@
 ## About me 👋
 
-💻 **Hello, I am currently a software engineer working at Huawei Ascend, engaging in AI Infra & software development.**
+💻 **Hello, I am currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), engaging in AI Infra and software development.**
 
-👨‍🎓 **Education: Communication Engineering, BSc & MSc, from BJTU.**
+📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
 
-📫 **Contact me: [shanshanshen333@gmail.com](shanshanshen333@gmail.com).**
-
-📃 **My blogs: [Shanshan Shen's blogs](https://shen-shanshan.github.io/).**
+📃 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
 
 ### Languages & Tools
 
