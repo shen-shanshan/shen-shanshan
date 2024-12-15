@@ -24,6 +24,6 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact) -->
 
-### Activities
+<!-- ### Activities
 
-[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shen-shanshan&theme=dracula)](https://github.com/shen-shanshan/github-readme-activity-graph)
+[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shen-shanshan&theme=dracula)](https://github.com/shen-shanshan/github-readme-activity-graph) -->
