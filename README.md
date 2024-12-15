@@ -8,8 +8,8 @@
 
 ### Languages & Tools
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=PyTorch)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat-square&logo=springboot)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
@@ -22,7 +22,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact) -->
 
 ### Activities
 
