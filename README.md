@@ -8,8 +8,6 @@
 
 ### Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
-
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=PyTorch)
@@ -21,6 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
 
 ### Stats
 
