@@ -8,6 +8,8 @@
 
 ### Languages & Tools
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
+
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=PyTorch)
@@ -20,5 +22,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
+
+### Activities
+
+[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shen-shanshan&theme=dracula)](https://github.com/shen-shanshan/github-readme-activity-graph)
