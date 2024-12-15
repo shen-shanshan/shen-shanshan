@@ -22,8 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&hide=TeX&layout=compact)
 
-### Stats
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 
 ### Activities
