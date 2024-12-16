@@ -1,10 +1,10 @@
 ## About me 👋
 
-💻 **Hello, I am currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), engaging in AI Infra and software development.**
+- 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), engaging in AI Infra and software development.
+- 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
+- 🌱 My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).
 
-📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
-
-📃 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
+<!-- 📃 -->
 
 <!-- ### Languages & Tools
 
