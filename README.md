@@ -37,6 +37,6 @@
   </tr>
 </table>
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
-</p> -->
+</p>
