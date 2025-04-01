@@ -22,6 +22,10 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 -->
 
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+
 <table>
   <tr>
     <td>
@@ -31,7 +35,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,shen-shanshan.github.io" />
     </td>
   </tr>
-  <!-- <td colspan=2>
-        <img src="https://github-profile-trophy.vercel.app/?username=shen-shanshan&title=-Followers&theme=algolia&no-bg=true&no-frame=true" />
-  </td> -->
 </table>
+
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
