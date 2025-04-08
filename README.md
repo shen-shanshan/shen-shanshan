@@ -22,9 +22,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
-</p>
+</p> -->
 
 <table>
   <tr>
