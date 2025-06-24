@@ -1,6 +1,6 @@
 ## About me 👋
 
-- 💻 **I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), engaging in LLM inference engine.**
+- 💻 **I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), focusing on LLM/VLM inference and reasoning.**
 - 📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
 - 🌱 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
 
