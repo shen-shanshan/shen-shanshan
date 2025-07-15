@@ -4,18 +4,18 @@
 - 📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
 - 🌱 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
 
-<table style="border: none;">
+<img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=nord&hide_border=true">
+
+<!-- <table style="border: none;">
   <tr>
     <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=nord&hide_border=true">
     </td>
-  <!-- </tr> -->
-  <!-- <tr> -->
     <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=shen-shanshan.github.io,shen-shanshan/cs-self-learning">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--
 ### Languages & Tools
