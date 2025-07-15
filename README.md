@@ -4,6 +4,19 @@
 - 📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
 - 🌱 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
 
+<table>
+  <tr>
+    <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=nord&hide_border=true">
+    </td>
+  <!-- </tr> -->
+  <!-- <tr> -->
+    <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=shen-shanshan.github.io,shen-shanshan/cs-self-learning">
+    </td>
+  </tr>
+</table>
+
 <!--
 ### Languages & Tools
 
@@ -22,21 +35,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&include_all_commits=true)
 -->
 
-<!-- <p align="center">
+<!--
+<p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
-</p> -->
-
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,shen-shanshan.github.io" />
-    </td>
-  </tr>
-</table>
-
-<!-- <p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
-</p> -->
+</p>
+theme=transparent
+theme=nord
+width="355" height="200"
+-->
