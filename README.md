@@ -4,7 +4,7 @@
 - 📫 **Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).**
 - 🌱 **My blogs: [<u>Shanshan Shen's blogs</u>](https://shen-shanshan.github.io/).**
 
-<table>
+<table style="border: none;">
   <tr>
     <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=nord&hide_border=true">
