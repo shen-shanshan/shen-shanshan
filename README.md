@@ -1,5 +1,3 @@
-<!-- ## About me 👋 -->
-
 <table style="border: none;">
   <tr>
     <td>
@@ -13,16 +11,12 @@
 
 - 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), focusing on LLM/VLM inference and reasoning.
 - 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
-- 📖 My blogs: [<u>shen-shanshan.github.io</u>](https://shen-shanshan.github.io/), [<u>Zhihu</u>](https://www.zhihu.com/people/sss-53-26).
+- 📖 My blogs: [<u>Zhihu</u>](https://www.zhihu.com/people/sss-53-26), [<u>shen-shanshan.github.io</u>](https://shen-shanshan.github.io/).
 
 <!--
 theme=transparent
 theme=nord
-width="355" height="200"
-&hide_border=true
-style="border: none;"
 
-<p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
-</p>
+style="border: none;"
+&hide_border=true
 -->
