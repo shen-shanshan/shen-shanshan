@@ -4,7 +4,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=shen-shanshan&count_private=true&show_icons=true&theme=transparent&hide_border=true">
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&count_private=true&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&hide=Jupyter&langs_count=8&exclude_repo=shen-shanshan.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&count_private=true&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&hide=Jupyter,javascript,css&langs_count=8&exclude_repo=shen-shanshan.github.io">
     </td>
   </tr>
 </table>
