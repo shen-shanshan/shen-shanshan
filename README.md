@@ -9,6 +9,6 @@
   </tr>
 </table>
 
-- 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), focusing on LLM/VLM inference acceleration and GPU/NPU computing.
+- 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/), focusing on LLM/VLM inference engine and GPU/NPU computing.
 - 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
 - 📖 My blogs: [<u>Zhihu</u>](https://www.zhihu.com/people/sss-53-26), [<u>shen-shanshan.github.io</u>](https://shen-shanshan.github.io/).
