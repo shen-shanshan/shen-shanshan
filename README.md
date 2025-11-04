@@ -1,3 +1,4 @@
+<!-- 
 <table style="border: none;">
   <tr>
     <td>
@@ -8,6 +9,15 @@
     </td>
   </tr>
 </table>
+-->
+
+<div align="center">
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=shen-shanshan" />
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shen-shanshan&layout=compact&langs_count=8&hide=Jupyter%20Notebook,javascript,css&exclude_repo=shen-shanshan.github.io" />
+  <span>  </span>
+</div>
 
 - 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/) and an outside collaborator of [vllm-project](https://github.com/vllm-project), focusing on LLM/VLM inference engine and GPU/NPU computing.
 - 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
