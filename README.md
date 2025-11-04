@@ -11,7 +11,7 @@
 </table>
 -->
 
-<div align="left">
+<div align="center">
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=shen-shanshan" />
   <span>  </span>
@@ -19,7 +19,7 @@
   <span>  </span>
 </div>
 
-<br>
+---
 
 - 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/) and an outside collaborator of [vllm-project](https://github.com/vllm-project), focusing on LLM/VLM inference engine and GPU/NPU computing.
 - 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
