@@ -12,7 +12,7 @@
     </td>
 </table>
 
-### 🤖 **About me**
+<!-- ### 🤖 **About me** -->
 
 - 💻 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/) and an outside collaborator of [vllm-project](https://github.com/vllm-project), focusing on LLM/VLM inference engine and GPU/NPU computing.
 - 📫 Contact me: [<u>shanshanshen333@gmail.com</u>](shanshanshen333@gmail.com).
