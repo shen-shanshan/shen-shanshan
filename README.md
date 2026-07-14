@@ -17,4 +17,4 @@
 I'm currently a software engineer working at [<u>Huawei Ascend</u>](https://www.hiascend.com/) and an outside collaborator of [<u>vllm-project</u>](https://github.com/vllm-project), focusing on LLM/VLM inference and GPU/NPU computing.
 -->
 
-I'm currently a senior software engineer working at [<u>AMD ROCm</u>](https://www.amd.com/en/products/software/rocm.html) (previously at [<u>Huawei Ascend</u>](https://www.hiascend.com/)), building vLLM inference engine for GPU/NPU software ecosystem (focusing on multi-modality / structured output / OOT hardware extensibility).
+I'm currently a senior software engineer working at [<u>AMD ROCm</u>](https://www.amd.com/en/products/software/rocm.html) (previously at [<u>Huawei Ascend</u>](https://www.hiascend.com/)), building vLLM inference engine for GPU/NPU software ecosystem (focusing on multi-modality inference / structured output / OOT hardware extensibility).
