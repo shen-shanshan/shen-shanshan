@@ -17,6 +17,6 @@ I'm currently a senior software engineer working at [<u>AMD ROCm</u>](https://ww
 
 I'm also a maintainer (member) of [vllm-project](https://github.com/vllm-project), mainly focusing on:
 
+- Performance optimization & bugfix for AMD Instinct GPUs.
 - Multi-modality inference (especially ViT execution optimization).
 - Hardware portability (especially OOT device extensibility).
-- Performance optimization & bugfix for AMD Instinct GPUs.
