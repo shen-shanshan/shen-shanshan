@@ -9,9 +9,9 @@
   </tr>
 </table>
 
-<!-- show=...,reviews -->
+<!-- show=...,reviews 🤖 -->
 
-### 🤖 **About Me**
+### **About Me:**
 
 I'm currently a senior software engineer working at [<u>AMD ROCm</u>](https://www.amd.com/en/products/software/rocm.html) (previously at [<u>Huawei Ascend</u>](https://www.hiascend.com/)), building [vLLM](https://github.com/vllm-project/vllm) inference engine for GPU/NPU software ecosystem.
 
