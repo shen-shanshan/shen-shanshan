@@ -15,8 +15,8 @@
 
 I'm currently a senior software engineer working at [<u>AMD ROCm</u>](https://www.amd.com/en/products/software/rocm.html) (previously at [<u>Huawei Ascend</u>](https://www.hiascend.com/)), building [vLLM](https://github.com/vllm-project/vllm) inference engine for GPU/NPU software ecosystem.
 
-I'm also a maintainer (member) of [vllm-project](https://github.com/vllm-project), mainly focusing on:
+I'm also a maintainer/member of [vllm-project](https://github.com/vllm-project), mainly focusing on:
 
-- Performance optimization & bugfix for AMD Instinct GPUs.
+- Performance optimization for AMD Instinct GPUs (especially DeepSeek model family).
 - Multi-modality inference (especially ViT execution optimization).
 - Hardware portability (especially OOT device extensibility).
